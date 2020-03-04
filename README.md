@@ -13,3 +13,6 @@ I have created and populated the TileMap node and created a Maze.gd script that 
 The tutorial was developed using Godot 3.1. Everything you see should be compatible with Godot 3.2, although some of the syntax highlighting might look slightly different.
 
 After you have completed the exercise, run the program. Update the LICENSE and README.md, and then turn in the URL to your repository on Canvas.
+
+
+# Finished!
